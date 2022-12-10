@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xdaswx&label=Profile%20views&color=0e75b6&style=flat" alt="xdaswx" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xdaswx" alt="xdaswx" /></a> </p>
-
 - 🌱 I’m currently learning **node.js**
 
 - ⚡ Fun fact **i made more projects in python for discord bot than anything else**
