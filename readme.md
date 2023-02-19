@@ -5,11 +5,10 @@
 
 - 🌱 I’m currently learning **node.js**
 
-- ⚡ Fun fact **i made more projects in python for discord bot than anything else**
-
-
 <p align="center">
    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+   <img src="https://img.shields.io/badge/javascript-e2cc73?style=for-the-badge&logo=javascript&logoColor=fffef9">
+   <img src="[https://img.shields.io/badge/javascript-e2cc73?style=for-the-badge&logo=javascript&logoColor=fffef9](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)">
 <p>
 
 <br>
