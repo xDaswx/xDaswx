@@ -6,7 +6,6 @@
 I'm a Software Engineer undergraduate from a some college from Brazil with a focus on the field of softwares.
 
 Other than that, im also a gamer, and a big tech nerd <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="15"/>
-
 I mostly use these programming languange:
 
 -   Python
