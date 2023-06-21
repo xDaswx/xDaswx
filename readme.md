@@ -1,16 +1,17 @@
 <h1 align="center">Dasw</h1>
-<h3 align="center">Software Engineer & Reverse Engineering & Pentesting</h3>
+<h3 align="center">Software Engineer & Reverse Engineering</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xdaswx&label=Profile%20views&color=0e75b6&style=flat" alt="xDaswx" /> </p>
 
-I'm a Software Engineer undergraduate from a some college from Brazil with a focus on the field of softwares.
+I'm a Software Engineer.
 
-Other than that, im also a gamer, and a big tech nerd <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="15"/>
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="15"/>
 I mostly use these programming languange:
 
 -   Python
--   Javascript 
+-   Javascript
+-   TypeScript
 
 <p align="center">
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/> 
