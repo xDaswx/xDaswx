@@ -6,20 +6,6 @@
 
 I'm a Software Engineer.
 
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="15"/>
-I mostly use these programming languange:
-
--   Python
--   Javascript
--   TypeScript
-
-<p align="center">
-   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/> 
-   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
-   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-   <img src="https://img.shields.io/badge/javascript-e2cc73?style=for-the-badge&logo=javascript&logoColor=fffef9"/>
-   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<p>
   <h3>Languages and Tools:</h3>
 <img  title="Visual Studio Code" width="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
  <img  title="Sublime Text" width="27px" src="https://user-images.githubusercontent.com/49023326/127584552-81152c45-51e0-4fdb-aa86-6847c9f739fc.png" />
@@ -45,21 +31,5 @@ I mostly use these programming languange:
  <img  title="Codeigniter" width="27px" src="https://user-images.githubusercontent.com/49023326/127585114-f8e5f538-f7ea-40b7-aee9-c87827c61502.png" />
  <img  title="Photoshop" width="27px" src="https://user-images.githubusercontent.com/49023326/160408542-fad72516-51f9-4378-80fa-17d727962517.png" />
  
-<br>
-
-
-<p align="center"> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=xdaswx&theme=dark&hide_border=false">
-</p>
-
-<details>
-<summary>🌠 My GitHub Stats</summary>
-
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=xdaswx&theme=dark&hide_border=false&include_all_commits=true&count_private=false">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdaswx&theme=dark&hide_border=false&include_all_commits=true&count_priva">
-</p>
-</details>
-
 
 
