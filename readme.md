@@ -3,6 +3,7 @@
 
 
 
+
 Iniciei minha trajetória na área de tecnologia em 2017, quando criava servidores privados de jogos populares daquela época. Em seguida, decidi aprender como funcionavam os sistemas de jogos e comecei a criar aplicações para modificá-los. Porém, precisei interromper essas atividades devido a projetos pessoais. Retomei o desenvolvimento de aplicações em Python em 2019, focando principalmente em sistemas automatizados e bots.
 
 Em 2022, decidi estudar desenvolvimento web, com ênfase na área de backend. Atualmente, concentro meus esforços nessa área. Além disso, aproveito meu tempo livre para explorar e identificar problemas de segurança em APIs de algumas aplicações, especialmente as relacionadas a jogos de celular.
