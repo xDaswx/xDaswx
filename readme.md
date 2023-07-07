@@ -35,10 +35,6 @@ I'm a Software Engineer.
 
 </div>
 
-<div align="left">
- <img width="150px" src="https://cdn.discordapp.com/attachments/739575553253834754/1126748589440381028/pngwing.com.png" />
-</div>
-
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
@@ -46,7 +42,7 @@ I'm a Software Engineer.
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=xdaswx&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
