@@ -37,8 +37,8 @@ I'm a Software Engineer.
 
 <div align="left">
 
- <img  title="Jeanne Alter" width="150px" src="https://i.pinimg.com/564x/45/7f/ad/457fad92babaf793116763ece61512e6.jpg" />
- <img width="350px" src="https://cdn.discordapp.com/attachments/739575553253834754/1126748589440381028/pngwing.com.png" />
+ <img  title="Jeanne Alter" width="350px" src="https://i.pinimg.com/564x/45/7f/ad/457fad92babaf793116763ece61512e6.jpg" />
+ <img width="150px" src="https://cdn.discordapp.com/attachments/739575553253834754/1126748589440381028/pngwing.com.png" />
 </div>
 
 ###
