@@ -2,16 +2,14 @@
 <h3 align="center">Software Engineer & Reverse Engineering</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xdaswx&label=Profile%20views&color=0e75b6&style=flat" alt="xDaswx" /> </p>
 
 I'm a Software Engineer.
-
 
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=xdaswx&label=Profile%20views&color=0e75b6&style=flat" alt="xDaswx" /> </p>
 </div>
 
 ###
