@@ -35,6 +35,9 @@ I'm a Software Engineer.
 
 </div>
 
+   <img  title="Jeanne Alter" width="350px" src="https://user-images.githubusercontent.com/49023326/131361197-5ccb6ff7-8b36-41ed-afdd-146e4643648c.png" />
+
+
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
