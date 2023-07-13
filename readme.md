@@ -38,7 +38,7 @@ Em 2022, decidi estudar desenvolvimento web, com ênfase na área de backend. At
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥  My Stats :</h3>
 
 ###
 
