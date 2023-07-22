@@ -1,5 +1,5 @@
 <h1 align="center">Dasw</h1>
-<h3 align="center">Software Engineer & Reverse Engineering</h3>
+<h3 align="center">Software Engineer & Security Researcher</h3>
 
 </br>
 Iniciei minha trajetória na área de tecnologia em 2017, quando criava servidores privados de jogos populares daquela época. Em seguida, decidi aprender como funcionavam os sistemas de jogos e comecei a criar aplicações para modificá-los. Porém, precisei interromper essas atividades devido a projetos pessoais. Retomei o desenvolvimento de aplicações em Python em 2019, focando principalmente em sistemas automatizados e bots.
