@@ -28,7 +28,6 @@
 
 </details>
 
-
 ##
 <h3 align="left"> 🎈 Trophies </h3>
 <div align="center">
