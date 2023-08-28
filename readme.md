@@ -42,6 +42,10 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=xdaswx&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="xDaswx" />
+</div>
+
 ![](https://github-readme-stats.vercel.app/api?username=xdaswx&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=xdaswx&theme=tokyonight&hide_border=true)<br/>
 
