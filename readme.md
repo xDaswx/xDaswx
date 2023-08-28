@@ -19,7 +19,7 @@
 
 
 <details>
-  <summary>Conctact</summary>
+  <summary>Contact</summary>
   
     * <a href="https://discord.com/users/211186121571303425">Discord</a>
     * Email: dasw_4shi@protonmail.com
