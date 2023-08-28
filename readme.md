@@ -44,7 +44,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xdaswx&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="xDaswx" />
-  <img width='10px' src="https://github-readme-streak-stats.herokuapp.com/?user=xdaswx&theme=tokyonight&hide_border=true" alt="xDaswx" />
+  <img width='50' src="https://github-readme-streak-stats.herokuapp.com/?user=xdaswx&theme=tokyonight&hide_border=true" alt="xDaswx" />
 </div>
 
 
