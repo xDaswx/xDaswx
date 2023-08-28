@@ -20,9 +20,8 @@
 
 <details>
   <summary>Contact</summary>
-  
-  <a href="https://discord.com/users/211186121571303425">Discord</a><br>
-<img src="https://discord.c99.nl/widget/theme-4/211186121571303425.png" width='300'>
+  <img src="https://discord.c99.nl/widget/theme-4/211186121571303425.png" width='300'>
+  <a href="https://discord.com/users/211186121571303425">Discord</a></br>
   Email: dasw_4shi@protonmail.com
 
 </details>
