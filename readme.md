@@ -29,9 +29,6 @@
 
 ###
 
-<h1 align="center"></h1>
-
-###
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
