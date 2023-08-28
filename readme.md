@@ -26,9 +26,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=xdaswx&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=xdaswx&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=xdaswx&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xdaswx&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ###
 
