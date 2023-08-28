@@ -5,8 +5,7 @@
 </br>
 
 ###
-  [![trophy](https://github-profile-trophy.vercel.app/?username=xdaswx&theme=onedark&column=8&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
+![](https://github-trophies.vercel.app/?username=xdaswx&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 <div align="center">
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=xdaswx&label=Profile%20views&color=0e75b6&style=flat" alt="xDaswx" /> </p>
 
