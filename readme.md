@@ -3,10 +3,10 @@
 <h3 align="center">Software Engineer & Security Researcher</h3>
 
 </br>
-
+[![](https://visitcount.itsvg.in/api?id=xdaswx&icon=7&color=6)](https://visitcount.itsvg.in)
 ###
 ![](https://github-trophies.vercel.app/?username=xdaswx&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-[![](https://visitcount.itsvg.in/api?id=xdaswx&icon=7&color=6)](https://visitcount.itsvg.in)
+
 
 <div align="center">
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=xdaswx&label=Profile%20views&color=0e75b6&style=flat" alt="xDaswx" /> </p>
