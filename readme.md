@@ -37,8 +37,6 @@
 
 <h3 align="left">🛠 Language and tools</h3>
 
-##
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdaswx&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="xDaswx" />
 </div>
