@@ -19,7 +19,7 @@
 
 
 ##
-
+<h3 align="left"> Trophies </h3>
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=xdaswx&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="xDaswx" />
 </div>
@@ -48,11 +48,4 @@
   
 </div>
 
-
-
-
 ###
-
- 
-
-
