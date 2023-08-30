@@ -17,7 +17,6 @@
 　　　　　　　　　　　　　　　　／＜_/＿＿＿＿／
 ```
 
-
 <details>
   <summary>Contact</summary>
   <img src="https://discord.c99.nl/widget/theme-4/211186121571303425.png" width='250'> </br>
