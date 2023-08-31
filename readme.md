@@ -36,7 +36,7 @@
 
 <table>
   <tr>
-    <td align="center" height="108" width="108">
+    <td align="center" height="108" width="208">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
         width="48"
@@ -45,7 +45,7 @@
       />
       <br /><strong>Python</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="108" width="208">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
         width="48"
@@ -54,7 +54,7 @@
       />
       <br /><strong>TypeScript</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="108" width="208">
       <img
         src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg"
         width="48"
@@ -63,7 +63,7 @@
       />
       <br /><strong>Angular</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="108" width="208">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
         width="48"
@@ -72,7 +72,7 @@
       />
       <br /><strong>Tailwind</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="108" width="208">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
         width="48"
@@ -81,7 +81,7 @@
       />
       <br /><strong>Bootstrap</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="108" width="208">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
         width="48"
@@ -92,7 +92,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center" height="108" width="108">
+    <td align="center" height="108" width="208">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
         width="48"
@@ -101,7 +101,7 @@
       />
       <br /><strong>Node.js</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="108" width="208">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
         width="48"
@@ -110,7 +110,7 @@
       />
       <br /><strong>Express</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="108" width="208">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
         width="48"
@@ -119,7 +119,7 @@
       />
       <br /><strong>PostgreSQL</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="108" width="208">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
         width="48"
@@ -128,7 +128,7 @@
       />
       <br /><strong>Firebase</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="108" width="208">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
         width="48"
@@ -137,7 +137,7 @@
       />
       <br /><strong>Docker</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="108" width="208">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
         width="48"
