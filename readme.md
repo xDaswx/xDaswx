@@ -1,14 +1,15 @@
 # Dasw
 
-<details>
-  <summary>Contact</summary>
-  <img src="https://discord.c99.nl/widget/theme-4/211186121571303425.png" width='250'> </br>
-  <a target="blank_" href="https://discord.com/users/211186121571303425">Discord</a>
-  
-  </br>
-  Email: dasw_4shi@protonmail.com
+Back-end Developer from SP, Brazil, ongoing graduation at Software Development with Agile Methodology. My first “Hello World” was when I was a child, 2017, on an old notebook because I had contact with JavaScript, Lua and MySQL when I tried to create extensions for websites I visited and in the same year I started learning reverse engineering to modify games.
+Passionate about arts and technology, some of my hobbies are reverse engineering and games,
 
-</details>
+<summary>Contact</summary>
+<img src="https://discord.c99.nl/widget/theme-4/211186121571303425.png" width='250'> </br>
+<a target="blank_" href="https://discord.com/users/211186121571303425">Discord</a>
+</br>
+Email: dasw_4shi@protonmail.com
+
+
 
 
 ##
