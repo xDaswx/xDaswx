@@ -3,7 +3,7 @@
 <img align="right" alt="Dasw art" height="340" src="https://github.com/xDaswx/xDaswx/assets/69166890/7bb9a2c7-d299-43f8-a751-e0253f7edea0">
 
 
-Back-end Developer from SP, Brazil, ongoing graduation at Software Development with Agile Methodology. My first “Hello World” was when I was a child, 2017, on an old notebook because I had contact with JavaScript, Lua and MySQL then I tried to create extensions for websites I visited and in the same year I started learning reverse engineering to modify games.<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" height="20" />.
+Back-end Developer from SP, Brazil, ongoing graduation at Software Development with Agile Methodology. My first “Hello World” was when I was a child, 2017, on an old notebook because I had contact with JavaScript, Lua and MySQL when I tried to create extensions for websites I visited and in the same year I started learning reverse engineering to modify games.<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" height="20" />.
 <br>
 Passionate about arts and technology, some of my hobbies are reverse engineering and games
 </a>.</p>
