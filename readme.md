@@ -8,7 +8,7 @@ I'm a Back-end Developer based in São Paulo, Brazil, currently working in Softw
 Passionate about arts and technology, some of my hobbies are reverse engineering and games
 </a>.</p>
 <br>
-<img src="https://discord.c99.nl/widget/theme-4/211186121571303425.png" width='350'> </br>
+<!-- <img src="https://discord.c99.nl/widget/theme-4/211186121571303425.png" width='350'> </br> -->
 <a target="blank_" href="https://discord.com/users/211186121571303425">Discord</a>
 </br>
 Email: dasw_4shi@protonmail.com
