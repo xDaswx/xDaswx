@@ -50,18 +50,18 @@ Website: https://dasw.cat/
         src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg"
         width="48"
         height="48"
-        alt="React"
+        alt="Angular"
       />
       <br /><strong>Angular</strong>
     </td>
     <td align="center" height="108" width="208">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg"
         width="48"
         height="48"
-        alt="Tailwind"
+        alt="Rabbitmq"
       />
-      <br /><strong>Tailwind</strong>
+      <br /><strong>Rabbitmq</strong>
     </td>
     <td align="center" height="108" width="208">
       <img
@@ -74,12 +74,12 @@ Website: https://dasw.cat/
     </td>
     <td align="center" height="108" width="208">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg"
         width="48"
         height="48"
-        alt="Material UI"
+        alt="Cloudflare"
       />
-      <br /><strong>Material UI</strong>
+      <br /><strong>Cloudflare</strong>
     </td>
   </tr>
   <tr>
@@ -94,12 +94,12 @@ Website: https://dasw.cat/
     </td>
     <td align="center" height="108" width="208">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg"
         width="48"
         height="48"
-        alt="Express"
+        alt="Redis"
       />
-      <br /><strong>Express</strong>
+      <br /><strong>Redis</strong>
     </td>
     <td align="center" height="108" width="208">
       <img
@@ -130,7 +130,7 @@ Website: https://dasw.cat/
     </td>
     <td align="center" height="108" width="208">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
         width="48"
         height="48"
         alt="AWS"
