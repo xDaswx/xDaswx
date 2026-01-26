@@ -143,15 +143,4 @@ Website: https://dasw.cat/
 
 
 ##
-
-<h3 align="left">🔥  My Stats :</h3>
-
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xdaswx&theme=tokyonight&hide_border=true" alt="xDaswx" />
-  <img width='300' src="https://github-readme-stats.vercel.app/api?username=xdaswx&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="xDaswx" />
-</div>
-
 <img src="https://komarev.com/ghpvc/?username=xdaswx&label=Profile%20views&color=0e75b6&style=flat" alt="xDaswx" />
-
-##
