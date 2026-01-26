@@ -3,15 +3,15 @@
 <!-- <img align="right" alt="Dasw art" height="340" src="https://github.com/xDaswx/xDaswx/assets/69166890/7bb9a2c7-d299-43f8-a751-e0253f7edea0"> -->
 
 
-I'm a Back-end Developer based in São Paulo, Brazil, currently working in Software Development and Sec. My programming journey started way back in 2017 when I was just a kid. I got my hands on JavaScript, Lua, and MySQL and started messing around with them on an old laptop. That's when I began creating website extensions and diving into the world of reverse engineering to tweak games. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" height="20" />.
+I'm a Back-end Developer based in São Paulo, Brazil, currently working in Software Development and Sec. My programming journey started way back in 2017 when I was just a kid. I got my hands on JavaScript, Lua, and MySQL and started messing around with them on an old laptop. That's when I began creating website extensions and diving into the world of reverse engineering to tweak games.
 <br>
-Passionate about arts and technology, some of my hobbies are reverse engineering and games
-</a>.</p>
+Passionate about arts and technology, some of my hobbies are reverse engineering and games.
 <br>
 <!-- <img src="https://discord.c99.nl/widget/theme-4/211186121571303425.png" width='350'> </br> -->
-<a target="blank_" href="https://discord.com/users/211186121571303425">Discord</a>
+<a target="blank_" href="https://discord.com/users/211186121571303425">Discord</a>: @Dasw
 </br>
 Email: dasw_4shi@protonmail.com
+</br>
 Website: https://dasw.cat/
 
 
@@ -19,7 +19,7 @@ Website: https://dasw.cat/
 ##
 
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">Language and tools</h3>
 
 <div align="center">
  <!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdaswx&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="xDaswx" /> -->
