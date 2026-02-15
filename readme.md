@@ -3,7 +3,8 @@
 <!-- <img align="right" alt="Dasw art" height="340" src="https://github.com/xDaswx/xDaswx/assets/69166890/7bb9a2c7-d299-43f8-a751-e0253f7edea0"> -->
 
 
-I'm a Back-end Developer based in São Paulo, Brazil, currently working in Software Development and Sec. My programming journey started way back in 2017 when I was just a kid. I got my hands on JavaScript, Lua, and MySQL and started messing around with them on an old laptop. That's when I began creating website extensions and diving into the world of reverse engineering to tweak games.
+I'm a Back-end Developer based in São Paulo, Brazil, currently working in Software Development and Sec.<br>
+My programming journey started way back in 2017 when I was just a kid. I got my hands on JavaScript, Lua, and MySQL and started messing around with them on an old laptop. That's when I began creating website extensions and diving into the world of reverse engineering to tweak games.
 <br>
 Passionate about arts and technology, some of my hobbies are reverse engineering and games.
 <br>
